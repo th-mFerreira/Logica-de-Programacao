@@ -1,1 +1,2 @@
-# L-gica-de-Programa-o
+# LÓGICA DE PROGRAMAÇÃO
+/ exercícios realizados durante o curso \
